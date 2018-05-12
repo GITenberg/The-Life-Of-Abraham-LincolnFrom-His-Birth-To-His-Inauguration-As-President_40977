@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40124'
     url: http://www.gutenberg.org/2009/agents/40124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40977#The-Life-Of-Abraham-LincolnFrom-His-Birth-To-His-Inauguration-As-President
 gutenberg_issued: '2012-10-08'
 gutenberg_type: Text
 identifiers:
